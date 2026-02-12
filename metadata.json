@@ -1,0 +1,7 @@
+{
+  "name": "LINE CRM Admin Console",
+  "description": "A comprehensive administrative backend for managing LINE friends, marketing campaigns, lucky draws, points systems, and rewards redemption.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
